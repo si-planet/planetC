@@ -60,7 +60,6 @@
 </div>
 
 <div align=center>
-  <h3>Most Used Language in Github</h3>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=si-planet&layout=compact)
   
