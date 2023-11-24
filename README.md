@@ -5,6 +5,12 @@
 </div>
 
 <div align=center>
+	
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=si_planet)](https://solved.ac/si_planet)
+</div>
+
+<div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
@@ -56,6 +62,7 @@
       📚Now Studying
     </summary>
       <img value="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+	<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   </details>
 </div>
 
