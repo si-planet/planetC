@@ -1,17 +1,9 @@
 
 <div align=center>  
-<h3>👋 Introduction 👋</h3>
-<p> 신입 JAVA SW 개발자를 목표로 하고 있습니다 </p>
+<h3>👋 si-planet 📚 Tech Stack 📚 Introduction 👋</h3>
 </div>
 
 <div align=center>
-	
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=si_planet)](https://solved.ac/si_planet)
-</div>
-
-<div align=center>
-	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Languages & Frameworks ✨</p>
 </div>
 <div align="center">
@@ -19,7 +11,6 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=Fluentd&logoColor=white" />
-	<br>
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
 </div>
 <br>
@@ -45,16 +36,20 @@
 	<a href="">
 		<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
 	</a>
-	<br>
+</div>
+<br>
+<div align=center>
+      <p>📚Now Studying</p>
+</div>
+<div align=center>
+	<img value="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+	<img src="https://img.shields.io/badge/CS-20B2AA?style=for-the-badge">
 </div>
 
 <div align=center>
-  <details>
-    <summary>
-      📚Now Studying
-    </summary>
-      <img value="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-	<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  </details>
+	
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=si_planet)](https://solved.ac/si_planet)
 </div>
+
 
