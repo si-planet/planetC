@@ -45,10 +45,4 @@
 	<img src="https://img.shields.io/badge/CS-20B2AA?style=for-the-badge">
 </div>
 
-<div align=center>
-	
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=si_planet)](https://solved.ac/si_planet)
-</div>
-
 
